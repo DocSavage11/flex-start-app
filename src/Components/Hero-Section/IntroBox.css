@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Castoro:ital@1&family=Charm&family=Cormorant+Garamond:wght@300&family=Courgette&family=Dancing+Script&family=Gabriela&family=Graduate&family=Great+Vibes&family=Josefin+Sans:wght@700&family=Merienda&family=Merienda+One&family=Montserrat:ital,wght@0,100;0,400;0,800;1,400&family=Nunito+Sans:ital,wght@0,300;1,400&family=Nunito:ital,wght@0,400;1,300&family=Old+Standard+TT&family=Pacifico&family=Quintessential&family=Radio+Canada:wght@500&family=Ramaraja&family=Roboto:wght@100&family=UnifrakturMaguntia&family=Unna&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    background-color: white;
+    font-family: "";
+}
+
+.intro-box {
+    display: flex;
+
+    margin: auto;
+
+    width: 1600px;
+}
+
+.short-about-content {
+    display: flex;
+    flex-direction: column;
+
+    margin: auto;
+    margin-left: 0px;
+
+    height: 400px;
+    width: 50%;
+}
+
+#introBoxTitle {
+    color: #1030a1;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Nunito", sans-serif;
+
+    margin: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#introBoxSubTitle {
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+
+    margin: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+
+#getStartedButton {
+    border: none;
+    background: #3c55f1;
+    border-radius: 5px;
+
+    display: flex;
+
+    color: white;
+    font-size: 28px;
+    font-weight: 500px;
+
+    margin: auto;
+    margin-left: 0px;
+
+    width: 220px;
+}
+
+#rightArrow {
+    margin: auto;
+}
+
+#guyPenLaptop {
+    margin: auto;
+    margin-right: 0px;
+
+
+    height: 600px;
+    width: 700px;
+}

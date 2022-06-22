@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Castoro:ital@1&family=Charm&family=Cormorant+Garamond:wght@300&family=Courgette&family=Dancing+Script&family=Gabriela&family=Graduate&family=Great+Vibes&family=Josefin+Sans:wght@700&family=Merienda&family=Merienda+One&family=Montserrat:ital,wght@0,100;0,400;0,800;1,400&family=Nunito+Sans:ital,wght@0,300;1,400&family=Nunito:ital,wght@0,400;1,300&family=Old+Standard+TT&family=Pacifico&family=Quintessential&family=Radio+Canada:wght@500&family=Ramaraja&family=Roboto:wght@100&family=UnifrakturMaguntia&family=Unna&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    background-color: white;
+    font-family: "";
+}
